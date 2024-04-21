@@ -5,3 +5,4 @@
 5.Wnet back to main and added ^-^
 6.Updated steps in bugFix2.0
 7.Added another bunny picture
+8.Update steps again
